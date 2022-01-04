@@ -1,8 +1,15 @@
 ---
 permalink: /about/
-title: "About"
+sidebar:
+  nav: "about"
+title: "Sobre mí"
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+Soy Juan, entusiasta de la inteligencia artificial, la ciencia, programación, el libre conocimiento y software.
+Me encanta la computación desde chico, ingresando a ella tras ver a mi padre programar un brazo robótico, y por los juegos de PC 🖥️; más de grande, profundizando por la curiosidad que me empezó a dar de hacer programas y de los fundamentos que hacen que los mismos funcionen.
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+Cerca del final de mi carrera de ingeniería, me empezaron a interesar las ideas que proponían que estos programas además incorporen conocimiento automáticamente, sea mediante el aprendizaje de reglas o estadístico.
+Empecé entonces a participar en proyectos de investigación en un área que desde ese momento me encantó: el aprendizaje por refuerzos.
+
+Comencé luego mi doctorado, enfocado en el ajuste autónomo de la configuración de los agentes de aprendizaje por refuerzos, donde empecé mis propias investigaciones y a formular mis propias hipótesis, acertando varias y errando otras tantas.
+Actualmente, estoy cerrando mis últimos proyectos, producto de esta hermosa etapa.
