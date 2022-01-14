@@ -106,4 +106,5 @@ Esta es mi colección de links de materiales (blogs, papers, libros, repos de c�
 * [How to Read a Paper](https://web.stanford.edu/class/ee384m/Handouts/HowtoReadPaper.pdf), por S. Keshav.
 * [How to write a great research paper](https://www.cis.upenn.edu/~sweirich/icfp-plmw15/slides/peyton-jones.pdf), por S. Peyton Jones.
 * [The illustrated guide to a Ph.D., de M. Might](https://matt.might.net/articles/phd-school-in-pictures/), diapos que sintetizan lo que es hacer un doctorado ([traducción al Español](https://ictlogy.net/sociedadred/20100818-guia-ilustrada-para-un-doctorado/)). Otro buen post de este blog: [HOWTO: Get tenure](https://matt.might.net/articles/tenure/).
+* [A Survival Guide to a PhD](https://karpathy.github.io/2016/09/07/phd/), de A. Karpathy.
 * [StackExchange: How to effectively deal with Imposter Syndrome and feelings of inadequacy](https://academia.stackexchange.com/questions/11765/how-to-effectively-deal-with-imposter-syndrome-and-feelings-of-inadequacy-ive).
