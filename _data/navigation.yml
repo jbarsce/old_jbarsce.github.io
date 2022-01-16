@@ -1,8 +1,19 @@
 main:
   - title: "Posts"
     url: /posts/
+  - title: "Actividad"
+    url: /work/
+  - title: "Recursos"
+    url: /link_collection/
   - title: "Sobre mí"
     url: /about/
+
+
+resources:
+  - title: Recursos
+    children:
+    - title: "Colección de links"
+      url: /link_collection/
 
 about:
   - title: Sobre mí
