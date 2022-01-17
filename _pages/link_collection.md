@@ -39,7 +39,6 @@ Esta es mi colección de links de materiales (blogs, papers, libros, repos de c�
 * [CS224U: Natural Language Understanding (Stanford)](https://web.stanford.edu/class/cs224u/).
 * [CS231n: Convolutional Neural Networks for Visual Recognition (Stanford)](http://cs231n.stanford.edu/), y su [Repo de GitHub](https://cs231n.github.io).
 
-
 ## Eventos locales
 
 ### Reuniones
@@ -59,6 +58,10 @@ Esta es mi colección de links de materiales (blogs, papers, libros, repos de c�
 * [Empirical Methods in Natural Language Processing](https://2021.emnlp.org/).
 * [Extra: Tiempo restante para las próximas conferencias](https://aideadlin.es/?sub=ML,CV,NLP,RO,SP,DM).
 
+
+## Preparación laboral
+
+* [Deep Learning Interviews: Hundreds of fully solved job interview questions from a wide range of key topics in AI](https://arxiv.org/abs/2201.00650).
 
 ## Aprendizaje por refuerzos
 
@@ -91,6 +94,10 @@ Esta es mi colección de links de materiales (blogs, papers, libros, repos de c�
 * [Congreso Argentino de Ciencias de la Computación](https://cacic2021.unsa.edu.ar/).
 * [Conferencia Latinoamericana de Informática](https://clei2021.cr/home).
 
+## Leveling-up
+
+* [HackerRank](https://www.hackerrank.com).
+* [LeetCode](https://leetcode.com/).
 
 # Ciencia, doctorado e investigación
 

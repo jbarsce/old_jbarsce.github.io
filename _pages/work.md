@@ -8,10 +8,10 @@ title: "Actividad"
 ## Actividad reciente
 
 - Proyecto: "Caracterización del lenguaje de odio en r/argentina", donde se utilizan técnicas de Minería de Texto, y de Aprendizaje Supervisado y No Supervisado para detectar discursos de odio/agresividad y los distintos sub-lenguajes de odio/agresividad que se manifiestan en una comunidad de reddit Argentina. 
-  El proyecto fue realizado en conjunto con E. Villarreal Guzmán, entre Octubre y Diciembre 2021. [GitHub del proyecto](https://github.com/PerseoSoft/redditHateSpeech).
-- Exposición: "Aprendizaje por Refuerzos: Fundamentos Teoricos y Aplicaciones" (Junio 2021), junto con J. Palombarini, en el marco del Seminario Virtual de Grandes Redes Sociales y Semánticas. [Video](https://www.youtube.com/watch?v=2MSssG2J-bs) y [diapositivas teóricas](https://cs.famaf.unc.edu.ar/~mdoming/seminarios/presentacion_seminario_Palomberini_16-6-2021.pdf) y [de aplicaciones](https://drive.google.com/file/d/1Aa3uXq0HgYWAiY9q5E__AKOVClqGtjiO).
+  El proyecto fue realizado en conjunto con [Eva Villarreal Guzmán](https://evavillarrealguzman.github.io/), entre Octubre y Diciembre 2021. [GitHub del proyecto](https://github.com/PerseoSoft/redditHateSpeech).
+- Exposición: "Aprendizaje por Refuerzos: Fundamentos Teoricos y Aplicaciones" (Junio 2021), junto con Jorge Palombarini, en el marco del Seminario Virtual de Grandes Redes Sociales y Semánticas. [Video](https://www.youtube.com/watch?v=2MSssG2J-bs) y [diapositivas teóricas](https://cs.famaf.unc.edu.ar/~mdoming/seminarios/presentacion_seminario_Palomberini_16-6-2021.pdf) y [de aplicaciones](https://drive.google.com/file/d/1Aa3uXq0HgYWAiY9q5E__AKOVClqGtjiO).
 - Presentación de investigación reciente, en el marco de las [5tas Jornadas de Doctorandos de la Universidad Tecnológica Nacional](https://www.utn.edu.ar/es/secretaria-sctyp/sctyp-posgrado/sctyp-jornadas-doctorandos-posgrado) (Octubre 2020). [Diapositivas](https://drive.google.com/file/d/1_EGU94Vp4PRg35t5BEo98KyuDzMqT_Vm/view).
-- Colaboración con D. Avaro en la redacción, implementación y graficación de la simulación de un modelo propuesto de Ingresos Básicos Universales (UBI) (Mayo 2020). [Link al artículo](https://www.ambito.com/opiniones/ingreso-basico-universal/cuantos-lo-recibirian-hoy-si-se-hubiese-lanzado-2004-n5105470).
+- Colaboración con Dante Avaro en la redacción, implementación y graficación de la simulación de un modelo propuesto de Ingresos Básicos Universales (UBI) (Mayo 2020). [Link al artículo](https://www.ambito.com/opiniones/ingreso-basico-universal/cuantos-lo-recibirian-hoy-si-se-hubiese-lanzado-2004-n5105470).
 
 
 ## Docencia
