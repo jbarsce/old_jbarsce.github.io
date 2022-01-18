@@ -1,7 +1,5 @@
 ---
 permalink: /work/
-sidebar:
-  nav: "resources"
 title: "Actividad"
 ---
 
