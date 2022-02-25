@@ -100,6 +100,10 @@ Esta es mi colección de links de materiales (blogs, papers, libros, repos de c�
 * [LeetCode](https://leetcode.com/).
 * [Codewars](https://www.codewars.com).
 
+## Preparación laboral
+
+* [Tech Interview Handbook](https://www.techinterviewhandbook.org/)
+
 # Ciencia, doctorado e investigación
 
 ## General
