@@ -59,10 +59,6 @@ Esta es mi colección de links de materiales (blogs, papers, libros, repos de c�
 * [Extra: Tiempo restante para las próximas conferencias](https://aideadlin.es/?sub=ML,CV,NLP,RO,SP,DM).
 
 
-## Preparación laboral
-
-* [Deep Learning Interviews: Hundreds of fully solved job interview questions from a wide range of key topics in AI](https://arxiv.org/abs/2201.00650).
-
 ## Aprendizaje por refuerzos
 
 ### General
@@ -96,13 +92,28 @@ Esta es mi colección de links de materiales (blogs, papers, libros, repos de c�
 
 ## Leveling-up
 
+### Recursos para aprender
+
+* [The Odin Project](https://www.theodinproject.com/).
+* [freeCodeCamp](https://www.freecodecamp.org/).
+* [GeeksforGeeks](https://www.geeksforgeeks.org/)
+
+### Programación general / competitiva
+
 * [HackerRank](https://www.hackerrank.com).
 * [LeetCode](https://leetcode.com/).
 * [Codewars](https://www.codewars.com).
+* [CodeChef](https://www.codechef.com/).
 
-## Preparación laboral
+### Ciencia de datos
 
-* [Tech Interview Handbook](https://www.techinterviewhandbook.org/)
+* [Kaggle](https://www.kaggle.com/).
+
+### Preparación laboral
+
+* [Tech Interview Handbook](https://www.techinterviewhandbook.org/).
+* [Deep Learning Interviews: Hundreds of fully solved job interview questions from a wide range of key topics in AI](https://arxiv.org/abs/2201.00650).
+
 
 # Ciencia, doctorado e investigación
 
