@@ -39,6 +39,9 @@ Esta es mi colección de links de materiales (blogs, papers, libros, repos de c�
 * [CS224U: Natural Language Understanding (Stanford)](https://web.stanford.edu/class/cs224u/).
 * [CS231n: Convolutional Neural Networks for Visual Recognition (Stanford)](http://cs231n.stanford.edu/), y su [Repo de GitHub](https://cs231n.github.io).
 
+## Material para aprender
+* [Learn Python, Data Viz, Pandas & More (Kaggle)](https://www.kaggle.com/learn). Muy buen material práctico de Kaggle para aprender conceptos de Python, ML, SQL, y técnicas avanzadas.
+
 ## Eventos locales
 
 ### Reuniones
