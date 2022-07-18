@@ -41,8 +41,10 @@ Esta es mi colección de links de materiales (blogs, papers, libros, repos de c�
 
 
 ## Material para aprender
+
 * [Learn Python, Data Viz, Pandas & More (Kaggle)](https://www.kaggle.com/learn). Muy buen material práctico de Kaggle para aprender conceptos de ciencia de datos. Incluye Python, ML, sus consideraciones éticas, SQL, y técnicas avanzadas como visión por computadoras y explicabilidad.
 
+* [Data Science for Beginners](https://github.com/microsoft/Data-Science-For-Beginners) y [Machine Learning for Beginners (Repo)](https://github.com/microsoft/ML-For-Beginners), [Web](https://microsoft.github.io/ML-For-Beginners) dos excelentes cursos complementarios ofrecidos por Microsoft, listos para hacerles un fork y empezar a resolver los ejercicios.
 
 ## Eventos locales
 
