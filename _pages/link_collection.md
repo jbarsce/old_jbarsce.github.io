@@ -31,7 +31,7 @@ Esta es mi colecci√≥n de links de materiales (blogs, papers, libros, repos de c√
 
 * [Reddit de Machine Learning](https://www.reddit.com/r/MachineLearning/).
 * [Reddit de Inteligencia Artificial](https://www.reddit.com/r/artificial/).
-
+* [Reddit de Data Science](https://www.reddit.com/r/datascience/).
 
 ## Cursos
 
