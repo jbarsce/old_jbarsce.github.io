@@ -9,14 +9,16 @@ Esta es mi colección de links de materiales (blogs, papers, libros, repos de c�
 
 # Inteligencia artificial y aprendizaje automático
 
-## Libros
-
 * [Artificial Intelligence: A Modern Approach (1995, 4ta edición publicada en 2020)](http://aima.cs.berkeley.edu/), por S. Russell y P. Norvig.
 * [Machine Learning (1997)](https://www.cs.cmu.edu/~tom/mlbook.html), por T. Mitchell.
-* [The Elements of Statistical Learning: Data Mining, Inference and Prediction (2009)](https://hastie.su.domains/ElemStatLearn/), por T. Hastie, R. Tibshirani y J. Friedman. Libro relacionado con aplicaciones en código: [An Introduction to Statistical Learning (2021)](https://www.statlearning.com/), por G. James, D. Witten, T. Hastie y R. Tibshirani. Disponible en [PDF](https://web.stanford.edu/~hastie/ISLR2/ISLRv2_website.pdf). Repo con soluciones en [Python](https://github.com/JWarmenhoven/ISLR-python).
+* [Information Theory, Inference, and Learning Algorithms (2003)](http://www.inference.org.uk/mackay/itila/book.html) por D. MacKay. Clásico que aborda el aprendizaje automático con un fuerte enfoque de teoría de la información.
 * [Pattern Recognition and Machine Learning (2006)](https://www.microsoft.com/en-us/research/publication/pattern-recognition-machine-learning/), por C. Bishop.
-* [Machine Learning: A Probabilistic Perspective (2012)](https://probml.github.io/pml-book/) por K. Murphy.
-* [Information Theory, Inference, and Learning Algorithms (2003)](http://www.inference.org.uk/mackay/itila/book.html) por D. MacKay.
+* [The Elements of Statistical Learning: Data Mining, Inference and Prediction (2009)](https://hastie.su.domains/ElemStatLearn/), por T. Hastie, R. Tibshirani y J. Friedman. 
+  * Libro relacionado con aplicaciones en código: [An Introduction to Statistical Learning (2021)](https://www.statlearning.com/), por G. James, D. Witten, T. Hastie y R. Tibshirani. Disponible en [PDF](https://web.stanford.edu/~hastie/ISLR2/ISLRv2_website.pdf). Repo con soluciones en [Python](https://github.com/JWarmenhoven/ISLR-python).
+* [Serie de libros de ML Probabilístico de K. Murphy](https://probml.github.io/pml-book/).
+  * Volumen 0, el clásico [Machine Learning: A Probabilistic Perspective (2012)](https://probml.github.io/pml-book/book0.html).
+  * Volumen 1, [Probabilistic ML: An Introduction (2022)](https://probml.github.io/pml-book/book1.html).
+  * Volumen 2, [Probabilistic ML: Advanced Topics (2023)](https://probml.github.io/pml-book/book2.html).
 
 
 ## Páginas útiles
@@ -40,11 +42,15 @@ Esta es mi colección de links de materiales (blogs, papers, libros, repos de c�
 * [CS231n: Convolutional Neural Networks for Visual Recognition (Stanford)](http://cs231n.stanford.edu/), y su [Repo de GitHub](https://cs231n.github.io).
 
 
-## Material para aprender
+## Material para aprender codeando
+
+Aquí se listan algunos repos para aprender con código en mano.
 
 * [Learn Python, Data Viz, Pandas & More (Kaggle)](https://www.kaggle.com/learn). Muy buen material práctico de Kaggle para aprender conceptos de ciencia de datos. Incluye Python, ML, sus consideraciones éticas, SQL, y técnicas avanzadas como visión por computadoras y explicabilidad.
 
 * [Data Science for Beginners](https://github.com/microsoft/Data-Science-For-Beginners) y [Machine Learning for Beginners (Repo)](https://github.com/microsoft/ML-For-Beginners), [Web](https://microsoft.github.io/ML-For-Beginners) dos excelentes cursos complementarios ofrecidos por Microsoft, listos para hacerles un fork y empezar a resolver los ejercicios.
+
+* [Probabilistic Programming & Bayesian Methods for Hackers](https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers) por C. Davidson-Pilon. Buen libro introductorio a la inferencia bayesiana a partir de un enfoque "computational/understanding-first, and mathematics-second, point of view" (sic), con implementaciones en [PyMC](https://github.com/pymc-devs/pymc).
 
 ## Eventos locales
 
@@ -73,8 +79,8 @@ Esta es mi colección de links de materiales (blogs, papers, libros, repos de c�
 * [Reinforcement Learning: an Introduction, por R. Sutton y A. Barto (2018)](http://www.incompleteideas.net/book/the-book.html). Libro principal de aprendizaje por refuerzos.
 * [Comunidad de RL en reddit](https://old.reddit.com/r/reinforcementlearning).
 * [Discord de RL](https://discord.gg/xhfNqQv) (muy activo y recomendado) y su [wiki de recursos](https://github.com/andyljones/reinforcement-learning-discord-wiki/wiki).
-* [Excelente recurso para aprender Deep RL, de OpenAI](https://spinningup.openai.com/en/latest/spinningup/spinningup.html).
-* [Completa entrada de blog de métodos de RL](https://lilianweng.github.io/lil-log/2018/02/19/a-long-peek-into-reinforcement-learning.html).
+* [Excelente recurso para aprender Deep RL, (2018)](https://spinningup.openai.com/en/latest/spinningup/spinningup.html), de J. Achiam.
+* [Completa entrada de blog de métodos de RL](https://lilianweng.github.io/lil-log/2018/02/19/a-long-peek-into-reinforcement-learning.html), de L. Weng.
 * [Awesome RL envs](https://github.com/clvrai/awesome-rl-envs).
 * [Awesome deep RL](https://github.com/kengz/awesome-deep-rl).
 * [Environments zoo](https://github.com/tshrjn/env-zoo).
