@@ -19,6 +19,7 @@ Esta es mi colección de links de materiales (blogs, papers, libros, repos de c�
   * Volumen 0, el clásico [Machine Learning: A Probabilistic Perspective (2012)](https://probml.github.io/pml-book/book0.html).
   * Volumen 1, [Probabilistic ML: An Introduction (2022)](https://probml.github.io/pml-book/book1.html).
   * Volumen 2, [Probabilistic ML: Advanced Topics (2023)](https://probml.github.io/pml-book/book2.html).
+* [Deep Learning (2016)](https://www.deeplearningbook.org/), por I. Goodfellow, Y. Bengio y A. Courville.
 
 
 ## Páginas útiles
