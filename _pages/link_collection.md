@@ -5,7 +5,7 @@ sidebar:
 title: "Colección de links"
 ---
 
-Esta es mi colección de links de materiales a los que recurro o me gusta tener de referencia (blogs, papers, libros, repos de códigos, etc.) que me parecen muy interesantes de distintos tópicos.
+Esta es mi colección de links de materiales (blogs, papers, libros, repos de códigos, etc.) a los que recurro o me gusta tener de referencia que me parecen muy interesantes de distintos tópicos.
 
 # Inteligencia artificial y aprendizaje automático
 
@@ -46,19 +46,30 @@ Esta es mi colección de links de materiales a los que recurro o me gusta tener 
 * [CS224U: Natural Language Understanding (Stanford)](https://web.stanford.edu/class/cs224u/).
 * [CS231n: Convolutional Neural Networks for Visual Recognition (Stanford)](http://cs231n.stanford.edu/), y su [Repo de GitHub](https://cs231n.github.io).
 * [Machine Learning Systems Design](https://stanford-cs329s.github.io/syllabus.html). Curso que involucra toda la parte de produccionalizacion de ML.
-* [Made with ML](https://madewithml.com/). Curso que destaca un overview de lo que se puede hacer de cara a la puesta en producción de modelos de ML.
-* [scikit-learn course](https://inria.github.io/scikit-learn-mooc/). Curso FOSS de ML de scikit-learn, con su repo [aquí](https://github.com/INRIA/scikit-learn-mooc).
 
 
 ## Material para aprender codeando
 
 Aquí se listan algunos repos para aprender con código en mano.
 
+
+* [Made with ML](https://madewithml.com/). Curso que destaca un overview de lo que se puede hacer de cara a la puesta en producción de modelos de ML.
+
+* [scikit-learn course](https://inria.github.io/scikit-learn-mooc/). Curso FOSS de ML de scikit-learn, con su repo [aquí](https://github.com/INRIA/scikit-learn-mooc).
+
+* [HuggingFace courses](https://huggingface.co/learn).
+
 * [Learn Python, Data Viz, Pandas & More (Kaggle)](https://www.kaggle.com/learn). Muy buen material práctico de Kaggle para aprender conceptos de ciencia de datos. Incluye Python, ML, sus consideraciones éticas, SQL, y técnicas avanzadas como visión por computadoras y explicabilidad.
 
 * [Data Science for Beginners](https://github.com/microsoft/Data-Science-For-Beginners) y [Machine Learning for Beginners (Repo)](https://github.com/microsoft/ML-For-Beginners), [Web](https://microsoft.github.io/ML-For-Beginners) dos excelentes cursos complementarios ofrecidos por Microsoft, listos para hacerles un fork y empezar a resolver los ejercicios.
 
 * [Probabilistic Programming & Bayesian Methods for Hackers](https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers) por C. Davidson-Pilon. Buen libro introductorio a la inferencia bayesiana a partir de un enfoque "computational/understanding-first, and mathematics-second, point of view" (sic), con implementaciones en [PyMC](https://github.com/pymc-devs/pymc).
+
+## Material para aprender python en general
+
+* [The Hitchhiker’s Guide to Python](https://docs.python-guide.org/).
+* [Real Python](realpython.com).
+* [Streamlit](https://streamlit.io/) y [Gradio](https://github.com/gradio-app/gradio/), para hacer UIs rápidamente para aplicaciones de datos.
 
 ## Eventos locales
 

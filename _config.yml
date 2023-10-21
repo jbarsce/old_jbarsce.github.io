@@ -19,7 +19,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Página personal de Juan Cruz Barsce.
 twitter_username: jbarsce
 github_username: jbarsce
-minimal_mistakes_skin: air
+minimal_mistakes_skin: dark
 search: true
 
 # Build settings
@@ -59,7 +59,7 @@ author:
   name   : "Juan Cruz Barsce"
   avatar : "/assets/images/bio-photo.jpg"
   bio    : 
-    "Estudiante de doctorado en UTN-Argentina."
+    "Data Scientist, profe."
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
