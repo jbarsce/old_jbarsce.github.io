@@ -5,9 +5,11 @@ sidebar:
 title: "Colección de links"
 ---
 
-Esta es mi colección de links de materiales (blogs, papers, libros, repos de códigos, etc.) que me parecen muy interesantes de distintos tópicos.
+Esta es mi colección de links de materiales a los que recurro o me gusta tener de referencia (blogs, papers, libros, repos de códigos, etc.) que me parecen muy interesantes de distintos tópicos.
 
 # Inteligencia artificial y aprendizaje automático
+
+## Libros
 
 * [Artificial Intelligence: A Modern Approach (1995, 4ta edición publicada en 2020)](http://aima.cs.berkeley.edu/), por S. Russell y P. Norvig.
 * [Machine Learning (1997)](https://www.cs.cmu.edu/~tom/mlbook.html), por T. Mitchell.
@@ -22,9 +24,11 @@ Esta es mi colección de links de materiales (blogs, papers, libros, repos de c�
 * [Deep Learning (2016)](https://www.deeplearningbook.org/), por I. Goodfellow, Y. Bengio y A. Courville.
 
 
-## Páginas útiles
+## Webs
 
 * [Visualizaciones y Blog de J. Alammar](https://jalammar.github.io/).
+* [Distilled AI](https://aman.ai/primers/ai/). Excelente recurso con resúmenes de tópicos variados de IA.
+
 
 ## Buenas lecturas
 
@@ -41,6 +45,9 @@ Esta es mi colección de links de materiales (blogs, papers, libros, repos de c�
 * [Machine Learning (Stanford)](https://www.coursera.org/learn/machine-learning). Curso introductorio a Machine Learning de Andrew Ng.
 * [CS224U: Natural Language Understanding (Stanford)](https://web.stanford.edu/class/cs224u/).
 * [CS231n: Convolutional Neural Networks for Visual Recognition (Stanford)](http://cs231n.stanford.edu/), y su [Repo de GitHub](https://cs231n.github.io).
+* [Machine Learning Systems Design](https://stanford-cs329s.github.io/syllabus.html). Curso que involucra toda la parte de produccionalizacion de ML.
+* [Made with ML](https://madewithml.com/). Curso que destaca un overview de lo que se puede hacer de cara a la puesta en producción de modelos de ML.
+* [scikit-learn course](https://inria.github.io/scikit-learn-mooc/). Curso FOSS de ML de scikit-learn, con su repo [aquí](https://github.com/INRIA/scikit-learn-mooc).
 
 
 ## Material para aprender codeando
@@ -106,7 +113,7 @@ Aquí se listan algunos repos para aprender con código en mano.
 
 ## Leveling-up
 
-### Recursos para aprender
+### Recursos varios para aprender
 
 * [The Odin Project](https://www.theodinproject.com/).
 * [freeCodeCamp](https://www.freecodecamp.org/).
